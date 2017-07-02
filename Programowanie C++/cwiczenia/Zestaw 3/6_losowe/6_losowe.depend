@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494951907 source:/home/szuwi/Pulpit/Programowanie C++/cwiczenia/Zestaw 3/6_losowe/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

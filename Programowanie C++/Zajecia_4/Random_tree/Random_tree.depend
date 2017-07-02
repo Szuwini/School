@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491208255 source:/home/szuwi/Pulpit/Programowanie C++/Zajecia_4/Random_tree/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<string>
+	<math.h>
+

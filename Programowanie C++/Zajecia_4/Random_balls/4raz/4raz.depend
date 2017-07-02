@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491476994 source:/home/szuwi/Pulpit/Programowanie C++/Zajecia_4/Random_balls/4raz/main.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	<SDL2_gfxPrimitives.h>
+

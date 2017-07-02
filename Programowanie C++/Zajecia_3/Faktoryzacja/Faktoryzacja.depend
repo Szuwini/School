@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489343935 source:/home/szuwi/Pulpit/Programowanie C++/Zajecia_3/Faktoryzacja/main.cpp
+	"stdio.h"
+	"math.h"
+

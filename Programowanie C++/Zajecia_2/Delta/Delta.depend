@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488791872 source:/home/szuwi/Pulpit/Programowanie C++/Delta/main.cpp
+	<iostream>
+	<cmath>
+
+1488792403 source:/home/szuwi/Pulpit/Programowanie C++/Zajecia_2/Delta/main.cpp
+	<iostream>
+	<cmath>
+

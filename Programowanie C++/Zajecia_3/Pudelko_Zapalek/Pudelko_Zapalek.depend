@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489401426 source:/home/szuwi/Pulpit/Programowanie C++/Zajecia_3/Pudelko_Zapalek/main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+

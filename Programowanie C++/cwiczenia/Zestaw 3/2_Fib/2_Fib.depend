@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494838761 source:/home/szuwi/Pulpit/Programowanie C++/cwiczenia/Zestaw 3/2_Fib/main.cpp
+	<iostream>
+	<cstdlib>
+

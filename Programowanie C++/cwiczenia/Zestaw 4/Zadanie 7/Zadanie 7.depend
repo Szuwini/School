@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1493025097 source:/home/szuwi/Pulpit/Programowanie C++/cwiczenia/Zestaw 4/Zadanie 7/main.cpp
+	<iostream>
+	<math.h>
+

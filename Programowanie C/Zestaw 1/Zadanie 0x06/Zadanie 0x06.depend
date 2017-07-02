@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476342596 source:/home/szuwi/Pulpit/Programowanie C/Zadanie 0x06/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

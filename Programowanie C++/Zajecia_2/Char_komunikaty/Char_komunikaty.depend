@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488794061 source:/home/szuwi/Pulpit/Programowanie C++/Zajecia_2/Char_komunikaty/main.cpp
+	<iostream>
+	<cctype>
+	<stdio.h>
+

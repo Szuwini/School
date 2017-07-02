@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489344433 source:/home/szuwi/Pulpit/Programowanie C++/Zajecia_3/Liczby_Pierwsze/main.cpp
+	<iostream>
+	<vector>
+

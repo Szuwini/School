@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491750438 source:/home/szuwi/Pulpit/Programowanie C++/cwiczenia/Zadanie9_zestaw4/main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

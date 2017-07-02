@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476348063 source:/home/szuwi/Pulpit/Programowanie C/Zadanie 0x05/main.c
+	<stdio.h>
+	<stdlib.h>
+

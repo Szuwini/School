@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488189227 source:/home/szuwi/Pulpit/Programowanie C++/Pierwsze_Zajecia/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

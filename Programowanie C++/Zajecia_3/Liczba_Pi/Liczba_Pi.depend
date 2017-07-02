@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489345546 source:/home/szuwi/Pulpit/Programowanie C++/Zajecia_3/Liczba_Pi/main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<math.h>
+

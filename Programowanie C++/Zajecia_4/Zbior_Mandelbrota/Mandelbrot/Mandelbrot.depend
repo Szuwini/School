@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490605276 source:/home/szuwi/Pulpit/Programowanie C++/Zajecia_4/Zbior_Mandelbrota/Mandelbrot/main.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	<complex>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494078874 source:/home/szuwi/Pulpit/Programowanie C++/cwiczenia/Zestaw 6/2_wektor/main.cpp
+	<iostream>
+	<vector>
+
